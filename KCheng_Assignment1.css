@@ -1,0 +1,64 @@
+body {
+    margin: 0px;
+    font-family: Futura;
+    font-size: 15px;
+}
+
+.landing-page {
+    background-color: #4912f6;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 10px 20px 50px 20px;
+}
+
+input[type='button'] {
+    padding: 10px 20px;
+    background-image: linear-gradient(to right, #FFB266, #FF9933);
+    font-weight: bold;
+    color: white;
+    border: 0px;
+    border-radius: 100px;
+}
+
+a:visited {
+    color: white;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+.headline-1 {
+    font-size: 30px;
+    padding: 0px;
+    margin-bottom: 0px;
+}
+
+.headline-2 {
+    font-size: 30px;
+    padding-top: 0px;
+    font-weight: bold;
+    margin-top: 0px;
+}
+
+.subscript {
+    font-size: 10px;
+    margin-bottom: 0px;
+}
+
+button {
+    padding: 15px 40px;
+    background-image: linear-gradient(to right, #FFB266, #FF9933);
+    font-weight: bold;
+    color: white;
+    border: 0px;
+    border-radius: 100px;
+    margin-top: 20px;
+}
+
+.headline-3 {
+    font-size: 20px;
+    font-weight: bold;
+}
