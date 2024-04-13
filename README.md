@@ -1,2 +1,4 @@
-# Assignment_1
- K. Cheng's Assignment #1 for Coders Campus Bootcamp
+# Intro to HTML and CSS
+Assignment_1 for Coders Campus Bootcamp
+
+This assignment was to replicate the landing page of Trello by using HTML and CSS.
